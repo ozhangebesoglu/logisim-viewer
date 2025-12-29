@@ -7,6 +7,12 @@
   "displayName": "logisim-viewer",
   "description": "Logisim .circ file viewer",
   "version": "0.0.1",
+  "publisher": "ozhangebesoglu",
+  "author": {
+    "name": "Özhan Gebeşoğlu",   
+    "email": "ozhan.gebesoglu@gmail.com"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.107.0"
   },
