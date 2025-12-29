@@ -1,5 +1,9 @@
 {
   "name": "logisim-viewer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ozhangebesoglu/logisim-viewer.git"
+  },
   "displayName": "logisim-viewer",
   "description": "Logisim .circ file viewer",
   "version": "0.0.1",
